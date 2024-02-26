@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
-import Gallery from './Components/Gallery'
-import SearchBar from './Components/SearchBar'
+import Gallery from './components/Gallery'
+import SearchBar from './components/SearchBar'
 
 
 const App = () => {
